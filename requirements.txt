@@ -1,0 +1,12 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import PyPDF2
+import requests
+import matplotlib.pyplot as plt
+import nltk
+
+from nltk.tokenize import word_tokenize
+from nltk.sentiment import vader
+from nltk.corpus import stopwords
+from nltk.corpus import opinion_lexicon
