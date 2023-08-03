@@ -6,10 +6,10 @@ How a student performs on the SAT can tremendously impact their future. Understa
 
 Some questions that I hope to investigate through this project are:
 1. How do states with different educational policies and funding levels perform on the SAT? 
-2. Are there any correlations between SAT scores and demographic factors, such as gender, ethnicity, or socioeconomic status? 
+2. Are there any correlations between SAT scores and demographic/geographic factors? 
 
 The dataset can be accessed at this link: https://corgis-edu.github.io/corgis/csv/school_scores/. Discussions about missing data and gaps in the narrative are further discussed in the Discussion section. 
 
 The key findings from this study were
 1. In the case document of the Supreme Court's ban of affirmative action, the most common negative words were "no", "limited" and "argued". The most common positive words were "Fair", "Justice" and "United". Other frequent words made nods to history thus it is important to consider historical perspective in discussions related to affirmative action.
-2. There was barely any variance in performance between income groups despite most test takers being in 100k+ income brackets. This may be attributed to taking a sample size of mainly high performing students.  
+2. There was barely any variance in performance between income groups despite most test takers being in 100k+ income brackets. This may be attributed to taking a sample size of mainly high-performing students.  
