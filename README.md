@@ -13,3 +13,5 @@ The dataset can be accessed at this link: https://corgis-edu.github.io/corgis/cs
 The key findings from this study were
 1. In the case document of the Supreme Court's ban of affirmative action, the most common negative words were "no", "limited" and "argued". The most common positive words were "Fair", "Justice" and "United". Other frequent words made nods to history thus it is important to consider historical perspective in discussions related to affirmative action.
 2. There was barely any variance in performance between income groups despite most test takers being in 100k+ income brackets. This may be attributed to taking a sample size of mainly high-performing students.  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snlaurax/SATScores/HEAD)
